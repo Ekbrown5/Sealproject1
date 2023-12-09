@@ -21,49 +21,48 @@ Sample Fetch/Ajax called:
 The Data I get back:
 ```json
 /*[
-  {
-    "ingredient": "Bergamot",
-    "description": "A citrus fruit with a bright, uplifting scent."
-  },
-  {
-    "ingredient": "Lavender",
-    "description": "A flowering plant with a calming, relaxing scent."
-  },
-  {
-    "ingredient": "Rose",
-    "description": "A flowering plant with a romantic, feminine scent."
-  },
-  {
-    "ingredient": "Jasmine",
-    "description": "A flowering plant with an exotic, sensual scent."
-  },
-  {
-    "ingredient": "Sandalwood",
-    "description": "A woody plant with a warm, earthy scent."
-  },
-  {
-    "ingredient": "Patchouli",
-    "description": "A herb with a deep, musky scent."
-  },
-  {
-    "ingredient": "Vanilla",
-    "description": "A spice with a sweet, gourmand scent."
-  },
-  {
-    "ingredient": "Amber",
-    "description": "A fossilized resin with a warm, balsamic scent."
-  },
-  {
-    "ingredient": "Musk",
-    "description": "An animal secretion with a sensual, musky scent."
-  },
-  {
-    "ingredient": "Oud",
-    "description": "A type of agarwood with a dark, mysterious scent."
-  }
+{
+"ingredient": "Bergamot",
+"description": "A citrus fruit with a bright, uplifting scent."
+},
+{
+"ingredient": "Lavender",
+"description": "A flowering plant with a calming, relaxing scent."
+},
+{
+"ingredient": "Rose",
+"description": "A flowering plant with a romantic, feminine scent."
+},
+{
+"ingredient": "Jasmine",
+"description": "A flowering plant with an exotic, sensual scent."
+},
+{
+"ingredient": "Sandalwood",
+"description": "A woody plant with a warm, earthy scent."
+},
+{
+"ingredient": "Patchouli",
+"description": "A herb with a deep, musky scent."
+},
+{
+"ingredient": "Vanilla",
+"description": "A spice with a sweet, gourmand scent."
+},
+{
+"ingredient": "Amber",
+"description": "A fossilized resin with a warm, balsamic scent."
+},
+{
+"ingredient": "Musk",
+"description": "An animal secretion with a sensual, musky scent."
+},
+{
+"ingredient": "Oud",
+"description": "A type of agarwood with a dark, mysterious scent."
+}
 ]
 ```
-
 
 ## Mockup
 
@@ -78,9 +77,7 @@ Here put a mix of text explanation plus a picture giving us an idea of the layou
 ![My Mobile View](https://i.imgur.com/5Bs7N6B.png)
 
 
-
 DEPLYOYED SITE: [Click Here](https://sealproject1.vercel.app/)
-
 
 
 ## Schedule of Work
